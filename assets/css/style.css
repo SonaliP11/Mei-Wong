@@ -16,6 +16,11 @@ h1, h2 {
     color: #184f63;
 }
 
+.sharp-corners,
+.sharp-corners * {
+    border-radius: 0;
+}
+
 /*About section*/
 
 #about {
@@ -63,3 +68,4 @@ h1, h2 {
         min-height: auto;
     }
   }
+
